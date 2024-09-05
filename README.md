@@ -1,3 +1,7 @@
+## AirdropScan Images
+
+**Important:** Do NOT rename/move images in this repo. The file names are used on the website.
+
 ### Resize images:
 
 Install imagemagick
